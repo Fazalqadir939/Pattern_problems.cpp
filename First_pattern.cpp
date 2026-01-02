@@ -9,7 +9,7 @@ main()
 {
     int n =1;
     int k =1;
-    for (int i =1;i<=5;i++)
+    for (int i =1;i<=5;i++)  
     {
         for (int j = k;j<=n;j++)
         {
